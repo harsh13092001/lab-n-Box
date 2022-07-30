@@ -1,4 +1,4 @@
-# quizzy
+# Lab N Box
 
 A new Flutter application.
 
